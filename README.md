@@ -1,7 +1,8 @@
 # Fence Removal From Images
 
-![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/fence/02.jpg)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/object/02.jpg)
-
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_object.jpg)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_fence.jpg)
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result02.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result04.png)
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result05.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png)
 
 ## Abstract
 
