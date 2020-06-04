@@ -40,8 +40,7 @@ Exemplar-based algorithms are a technique for image inpainting. In the image res
 <img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png"/>
 
 ## Inpaint operation time
-
-![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/Picture%20operation%20time%2001.png)
+<img width="300" height="540" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/Picture%20operation%20time%2001.png"/>
 
 ![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/Picture%20operation%20time%2002.png)
 
