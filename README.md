@@ -1,7 +1,7 @@
 # Fence Removal From Images
 
-![image](picture or gif url)
-呢度放封面圖
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/fence/02.jpg)
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/object/02.jpg)
 
 ## Abstract
 
