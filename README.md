@@ -1,9 +1,7 @@
 # Fence Removal From Images
-<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_object.jpg"/>
-![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_fence.jpg)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_fence.jpg)
-![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result02.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result04.png)
-![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result05.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png)
-
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_object.jpg"/><img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_fence.jpg"/>
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result02.png"/><img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result04.png"/>
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result05.png"/><img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png"/>
 
 ## Abstract
 
