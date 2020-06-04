@@ -16,7 +16,7 @@ This project is all implemented using [Matlab](https://www.mathworks.com/product
 
 ## Data Preparation
 
-We have prepared 8 groups of photos, two in a group, for using to test data.
+We have prepared 8 groups of photos, two in a group, for using to testing data.
 
 ## Fence Extraction
 
