@@ -38,7 +38,7 @@ run on method01.m
 **Method 02 - Exemplar-based in painting algorithms**  
 Exemplar-based algorithms are a technique for image inpainting. In the image restoration, we gradually restore the fence in the image. We can first remove the unnecessary fence parts in the original image, then use the inpainting approach to fill in, fill the geometry and texture of the image to the corresponding target area.
 
-run on demo1.m - demo8.m
+run on demo01.m - demo08.m
 
 <img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/method_img.png"/>
 <img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png"/>
