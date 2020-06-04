@@ -23,23 +23,20 @@ We have prepared 8 groups of photos, two in a group, for using to testing data.
 Subtract the Gaussian Blur image from its original image, subtract from pixel to pixel, and then a value will appear. The larger the value is the clear position, and the smaller the value is the blurred position so that the clear position of the pixel will be on the fence and the subject.
 The mask of extraction fence image.
 
-![image](picture or gif url)
-呢度放提取圖ppt15
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result01.png"/><img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result02.png"/>
 
 ##  Image Recovering
 
 **Method 01 - Use pixel average to inpaint**  
 The weighted average value of the gray values of adjacent pixels is used to calculate the gray value of unknown pixels. This method has a faster repair speed, but cannot maintain the scene structure in the photo. The result of the repaired photo will be blurred.
 
-![image](picture or gif url)
-呢度放圖ppt24
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result07.png"/>
 
 
 **Method 02 - Exemplar-based in painting algorithms**  
 Exemplar-based algorithms are a technique for image inpainting. In the image restoration, we gradually restore the fence in the image. We can first remove the unnecessary fence parts in the original image, then use the inpainting approach to fill in, fill the geometry and texture of the image to the corresponding target area.
 
-![image](picture or gif url)
-呢度放圖ppt25
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/method_img.png"/>
 
 ## Inpaint operation time
 
