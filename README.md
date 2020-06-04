@@ -37,19 +37,18 @@ The weighted average value of the gray values of adjacent pixels is used to calc
 Exemplar-based algorithms are a technique for image inpainting. In the image restoration, we gradually restore the fence in the image. We can first remove the unnecessary fence parts in the original image, then use the inpainting approach to fill in, fill the geometry and texture of the image to the corresponding target area.
 
 <img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/method_img.png"/>
+<img width="300" height="200" src="https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result06.png"/>
 
 ## Inpaint operation time
 
-![image](picture or gif url)
-呢度放圖ppt37
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/Picture%20operation%20time%2001.png)
 
-![image](picture or gif url)
-呢度放圖ppt38
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/Picture%20operation%20time%2002.png)
 
 ## Inpaint Result
 
-![image](picture or gif url)
-呢度放圖ppt41
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result08.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result09.png)
 
-![image](picture or gif url)
-呢度放圖ppt43
+
+![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result10.png)![image](https://github.com/fypiatbrian/GroupPfyp/blob/master/demo_result/demo_result11.png)
+
